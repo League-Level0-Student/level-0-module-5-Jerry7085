@@ -1,5 +1,7 @@
 package _01_algorithms._1_prime_or_not;
 
+import java.util.Random;
+
 import javax.swing.JOptionPane;
 
 public class Primeornot {
@@ -13,10 +15,6 @@ public class Primeornot {
 		else {
 			JOptionPane.showMessageDialog(null, "It is not a prime number.");
 		}
-		
-		
-		
-		
 		
 		
 	}
